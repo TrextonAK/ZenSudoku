@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+2f1a28fa12565e58d789442d6b1aad47 CMakeFiles/ZenSudoku_autogen
