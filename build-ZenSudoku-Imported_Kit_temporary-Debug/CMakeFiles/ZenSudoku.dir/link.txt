@@ -1,0 +1,3 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\ZenSudoku.dir/objects.a
+C:\Qt\Tools\mingw1120_64\bin\ar.exe qc CMakeFiles\ZenSudoku.dir/objects.a @CMakeFiles\ZenSudoku.dir\objects1.rsp
+C:\Qt\Tools\mingw1120_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\ZenSudoku.dir/objects.a -Wl,--no-whole-archive -o ZenSudoku.exe -Wl,--out-implib,libZenSudoku.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ZenSudoku.dir\linklibs.rsp
